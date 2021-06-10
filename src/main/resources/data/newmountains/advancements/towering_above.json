@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:snow_block"
+    },
+    "title": {
+      "translate": "advancements.towering_above.title"
+    },
+    "description": {
+      "translate": "advancements.towering_above.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "towering_above": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "newmountains:snowy_mountains"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "minecraft:adventure/root"
+}

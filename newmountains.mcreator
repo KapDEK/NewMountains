@@ -1,0 +1,448 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SnowyMountains",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowy_mountains"
+    },
+    {
+      "name": "Desertdunes",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "desert_dunes"
+    },
+    {
+      "name": "BadlandsCanyons",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flooded_badlands"
+    },
+    {
+      "name": "RuinedMountainOutpost",
+      "type": "structure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruined_mountain_outpost_spawn_1"
+    },
+    {
+      "name": "MountainOutpostLoot",
+      "type": "loottable",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mountain_outpost_loot"
+    },
+    {
+      "name": "RuinedMountainOutpost2",
+      "type": "structure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruined_mountain_outpost_2"
+    },
+    {
+      "name": "ToweringAbove",
+      "type": "achievement",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "towering_above"
+    },
+    {
+      "name": "TagiaPeaks",
+      "type": "biome",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tagia_peaks"
+    },
+    {
+      "name": "TaigaCabin",
+      "type": "loottable",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga_cabin"
+    },
+    {
+      "name": "TaigaMountainSpawn",
+      "type": "structure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga_mountain_spawn"
+    },
+    {
+      "name": "TAIGA",
+      "type": "loottable",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga"
+    },
+    {
+      "name": "HitideLoot",
+      "type": "loottable",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hitide_loot"
+    },
+    {
+      "name": "Hitideraw",
+      "type": "loottable",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hitideraw"
+    },
+    {
+      "name": "TaigaHillsFound",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga_hills_found"
+    },
+    {
+      "name": "LushMountains",
+      "type": "biome",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lush_mountains"
+    },
+    {
+      "name": "JungleMountain",
+      "type": "biome",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_mountain"
+    },
+    {
+      "name": "Snowerizer",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowerizer"
+    },
+    {
+      "name": "Sno",
+      "type": "gui",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sno"
+    },
+    {
+      "name": "Snoere",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snoere",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SnowSpeed",
+      "type": "enchantment",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snow_speed"
+    },
+    {
+      "name": "FillerRecipeforSNOW",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "filler_recipefor_snow"
+    },
+    {
+      "name": "SnowyTagiaPeaks",
+      "type": "biome",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowy_tagia_peaks"
+    },
+    {
+      "name": "SnowyTaigaCabinLoot",
+      "type": "loottable",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowy_taiga_cabin_loot"
+    },
+    {
+      "name": "SnowyTaigaMountainCabin",
+      "type": "structure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowy_taiga_mountain_cabin"
+    },
+    {
+      "name": "SnowerizerOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowerizer_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Experimentalfeatures",
+      "type": "gamerule",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "experimentalfeatures",
+      "metadata": {
+        "type": "boolean"
+      }
+    },
+    {
+      "name": "TaigaMountainSpawnOld",
+      "type": "structure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga_mountain_spawn_old"
+    },
+    {
+      "name": "TaigaMountainSpawnOldAdditionalGenerationCondition",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga_mountain_spawn_old_additional_generation_condition",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TaigaMountainSpawnAdditionalGenerationCondition",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "taiga_mountain_spawn_additional_generation_condition",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ExperementalBlocks",
+      "type": "tab",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "experemental_blocks"
+    },
+    {
+      "name": "SnowyTaigaMountainOld",
+      "type": "structure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowy_taiga_mountain_old"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "idlegoat",
+      "files": [
+        "idle1",
+        "idle2",
+        "idle3",
+        "idle4",
+        "idle5",
+        "idle6",
+        "idle7",
+        "idle8"
+      ],
+      "category": "ambient",
+      "subtitle": "goat"
+    },
+    {
+      "name": "stepinggoat",
+      "files": [
+        "step1",
+        "step2",
+        "step3",
+        "step4",
+        "step5",
+        "step6"
+      ],
+      "category": "master",
+      "subtitle": "goat"
+    },
+    {
+      "name": "hurtgoat",
+      "files": [
+        "hurt1",
+        "hurt2",
+        "hurt3",
+        "hurt4"
+      ],
+      "category": "master",
+      "subtitle": "goat"
+    },
+    {
+      "name": "goatdies",
+      "files": [
+        "death1",
+        "death2",
+        "death3",
+        "death4",
+        "death5"
+      ],
+      "category": "master",
+      "subtitle": "goat"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.goatsound": "goat",
+      "biome.newmountains.tagia_peaks": "Tagia Peaks",
+      "advancements.taiga_hills_found.title": "Peak of the Taiga",
+      "biome.mountainupdta.mountains": "Mountains2",
+      "block.newmountains.snowerizer": "Snowerizer",
+      "biome.newmountains.snowy_tagia_peaks": "Tagia Peaks",
+      "gamerule.experimentalfeatures.description": "Activates New Mountains Experemental Features.",
+      "advancements.towering_above.descr": "Find a Snowy Mountain.",
+      "biome.newmountains.flooded_badlands": "Flooded Badlands",
+      "advancements.towering_above.title": "Looming Above",
+      "subtitles.idlegoat": "goat",
+      "gamerule.experimentalfeatures": "Experemental Features",
+      "biome.newmountains.snowy_mountains": "Snowy Mountains",
+      "advancements.taiga_hills_found.descr": "Find the Taiga Peaks!",
+      "biome.newmountains.lush_mountains": "Lush Mountains",
+      "subtitles.hurtgoat": "goat",
+      "subtitles.idle": "goat",
+      "itemGroup.tabexperemental_blocks": "Experemental Blocks",
+      "enchantment.newmountains.snow_speed": "Snow Speed",
+      "biome.newmountains.desert_dunes": "Desert Dunes",
+      "subtitles.stepinggoat": "goat",
+      "biome.newmountains.jungle_mountain": "Jungle Mountain",
+      "subtitles.goatdies": "goat"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Beta Biomes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "newmountains",
+    "modName": "New Mountains Mod",
+    "version": "1.2.1 Pr",
+    "description": "New Mountains 1.2.1 Pre-Release 1",
+    "author": "Frosty Peaks",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "updateURL": "https://github.com/KapDEK/Updateurl/blob/main/update.json",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mountainupdta",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

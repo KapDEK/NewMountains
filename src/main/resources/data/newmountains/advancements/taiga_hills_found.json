@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spruce_wood"
+    },
+    "title": {
+      "translate": "advancements.taiga_hills_found.title"
+    },
+    "description": {
+      "translate": "advancements.taiga_hills_found.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "taiga_hills_found": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "newmountains:tagia_peaks"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:adventure/root"
+}

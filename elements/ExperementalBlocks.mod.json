@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Experemental Blocks",
+    "icon": {
+      "value": "CUSTOM:Snowerizer"
+    },
+    "showSearch": false
+  }
+}
