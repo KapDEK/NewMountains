@@ -427,10 +427,10 @@
   "workspaceSettings": {
     "modid": "newmountains",
     "modName": "New Mountains Mod",
-    "version": "1.2.1 Pr",
+    "version": "1.2.1-pre1",
     "description": "New Mountains 1.2.1 Pre-Release 1",
     "author": "Frosty Peaks",
-    "websiteURL": "https://mcreator.net",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/new-mountains-mod",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": false,
     "serverSideOnly": false,
