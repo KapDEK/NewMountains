@@ -432,7 +432,7 @@
     "author": "Frosty Peaks",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/new-mountains-mod",
     "license": "Academic Free License v3.0",
-    "disableForgeVersionCheck": false,
+    "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
