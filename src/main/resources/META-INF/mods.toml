@@ -4,13 +4,13 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="newmountains"
-version="1.2.1-pre2"
+version="1.2.1"
 displayName="New Mountains Mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/new-mountains-mod"
 authors="Frosty Peaks"
 description='''
-New Mountains 1.2.1 Pre-Release 2
+New Mountains 1.2.1 
 '''
 
 [[dependencies.newmountains]]

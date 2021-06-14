@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:spruce_log"
+    },
+    "title": {
+      "translate": "advancements.snowy_taiga_found.title"
+    },
+    "description": {
+      "translate": "advancements.snowy_taiga_found.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "snowy_taiga_found": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "newmountains:snowy_tagia_peaks"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "newmountains:taiga_hills_found"
+}
